@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity2">
+
+    <FrameLayout
+        android:id="@+id/frameLayout"
+        android:layout_width="406dp"
+        android:layout_height="495dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80px"
+            android:layout_marginTop="140px"
+            android:text="¿Que Deseas Hacer?"
+            android:textSize="22sp" />
+
+        <Button
+            android:id="@+id/buttonCal"
+            android:layout_width="316dp"
+            android:layout_height="64dp"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="360px"
+            android:text="Calculadora" />
+
+        <Button
+            android:id="@+id/buttonNeq"
+            android:layout_width="317dp"
+            android:layout_height="62dp"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="560px"
+            android:text="Cajero" />
+
+        <Button
+            android:id="@+id/buttonFC"
+            android:layout_width="317dp"
+            android:layout_height="62dp"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="740px"
+            android:text="Convertir" />
+
+        <Button
+            android:id="@+id/buttonSalir1"
+            android:layout_width="120dp"
+            android:layout_height="62dp"
+            android:layout_marginLeft="80px"
+            android:layout_marginTop="1050px"
+            android:text="Salir" />
+    </FrameLayout>
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="406dp"
+        android:layout_height="242dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

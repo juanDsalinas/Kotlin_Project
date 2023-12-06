@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61fc59fd-1042-420b-ae72-1d77cfc34f64" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../KOTLIN/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KOTLIN/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KOTLIN/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KOTLIN/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KOTLIN/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../KOTLIN/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../KOTLIN/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../KOTLIN/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyAplication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyAplication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/exampl/repasokotlin/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/repaso/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/BancoPractica/Client.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/BancoPractica/Ejecucion.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/BancoPractica/prueba.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOBasico/Ejecutar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOBasico/Person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOBasico/PersonaConstructor.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOBasico/PersonaParametros.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOColaboracion/Banco.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOColaboracion/Cliente.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOColaboracion/Ejecutar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOColaboracion/person.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOComplementos/Carta.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOComplementos/DatosCartas.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOComplementos/Ejecutar.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/exampl/repasokotlin/POOComplementos/Producto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Y9BcaYdZ6IUxQdl8J5fGlPqzOJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/Andrea/Documents/GitHub/Kotlin/app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61fc59fd-1042-420b-ae72-1d77cfc34f64" name="Changes" comment="" />
+      <created>1699927994976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699927994976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
